@@ -55,7 +55,7 @@ echo $commentClass;
                 <div class="t-w">
                 <div class="t-u"><img height="120" src="<?php $this->options->themeUrl('img/blog.jpg'); ?>"></div>
                 <div class="t-t">
-                    <h1>宁采陈<span><i class="layui-icon">&#xe635;</i>全栈工程师</span></h1>
+                    <h1>时宁<span><i class="layui-icon">&#xe635;</i>软件开发工程师</span></h1>
                     <div class="t-d layui-hide-xs">
                         <span class="typed"></span>
                     </div>
@@ -98,7 +98,7 @@ echo $commentClass;
 <script type="text/javascript" src="https://cdn.bootcss.com/typed.js/2.0.5/typed.js"></script>
 <script>
     var typed = new Typed(".t-d .typed", {
-        strings: ["请在mylife.php文件里修改此页信息"],
+        strings: ["天行健，君子以自强不息；地势坤，君子以厚德载物。"],
         typeSpeed:30 // 速度
     });
 </script>
