@@ -47,8 +47,8 @@
         <h3 class="title-sidebar"><i class="layui-icon">&#xe64c;</i>友情链接<a style="float: right;color: #666;" href="#">申请</a></h3>
         <div>
             <a class="layui-btn layui-btn-xs layui-btn-primary" href="http://blog.yufeng.info/" title='系统技术非业余研究' target="_blank">系统技术非业余研究</a>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客1' target="_blank">宁采陈博客1</a>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客2' target="_blank">宁采陈博客2</a>
+            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://blog.codingnow.com/" title='云风的 BLOG' target="_blank">云风的 BLOG</a>
+            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.dandyweng.com/" title='翁天信 · Dandy Weng 的个人网站主页' target="_blank">翁天信 · Dandy Weng 的个人网站主页</a>
         </div>
     </div>
 </div>
